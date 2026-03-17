@@ -13,7 +13,7 @@ export function Footer() {
                 Allure
               </span>
               <span className="text-[10px] font-body tracking-[0.4em] uppercase text-accent ml-1">
-                Homes Ltd.
+                HOMES
               </span>
             </Link>
             <p className="text-text-muted font-body text-sm leading-relaxed max-w-xs pr-4">
@@ -79,7 +79,7 @@ export function Footer() {
 
         <div className="pt-8 border-t border-border flex flex-col md:flex-row justify-between items-center gap-6">
           <p className="text-text-muted text-xs font-body tracking-widest uppercase">
-            &copy; {new Date().getFullYear()} Allure Homes Ltd.
+            &copy; {new Date().getFullYear()} Allure Homes
           </p>
           <div className="flex gap-8 text-text-muted text-xs uppercase tracking-[0.2em]">
             <Link href="#" className="hover:text-accent transition-colors">Privacy</Link>

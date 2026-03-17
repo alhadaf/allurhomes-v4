@@ -21,7 +21,7 @@ const masterBuildingData = {
   id: "master-building",
   title: "The Intersection of Engineering & Elegance",
   content: `
-    <p>Founded by Jeff Akl, Allure Homes Ltd. represents a rare bridge between high-level structural theory and on-site reality. After graduating from Florida University in 1985 and building homes in Toronto, Jeff earned his Master’s in Structural Engineering in Edmonton in 1998.</p>
+    <p>Founded by Jeff Akl, Allure Homes represents a rare bridge between high-level structural theory and on-site reality. After graduating from Florida University in 1985 and building homes in Toronto, Jeff earned his Master’s in Structural Engineering in Edmonton in 1998.</p>
     <p>This dual background allows us to navigate architectural complexities that other builders cannot. We provide a complete turnkey operation focused on absolute structural integrity and uncompromising aesthetic quality.</p>
   `,
   image: "https://images.unsplash.com/photo-1541888946425-d81bb19240f5?q=80&w=2070&auto=format&fit=crop",

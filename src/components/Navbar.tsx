@@ -46,7 +46,7 @@ export function Navbar() {
             "text-[9px] font-body tracking-[0.3em] uppercase transition-colors duration-500 ml-1",
             scrolled ? "text-accent" : "text-accent drop-shadow-md"
           )}>
-            Homes Ltd.
+            HOMES
           </span>
         </Link>
 

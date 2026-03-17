@@ -13,15 +13,15 @@ const jeffStory = {
   id: "founder-story",
   title: "A Master's Journey",
   content: `
-    <p>Jeff Akl, the founder of Allure Homes Ltd., began his journey in 1985, graduating from Florida University. After gaining critical experience building homes as a subcontractor for large builders in Toronto starting in 1986, Jeff moved to Edmonton in 1993.</p>
-    <p>In Edmonton, he pursued a Master’s in Structural Engineering, graduating in 1998. Shortly after, Allure Homes Ltd. was incorporated with a singular mission: to provide a rare combination of high-level engineering and deep on-site construction mastery.</p>
+    <p>Jeff Akl, the founder of Allure Homes, began his journey in 1985, graduating from Florida University. After gaining critical experience building homes as a subcontractor for large builders in Toronto starting in 1986, Jeff moved to Edmonton in 1993.</p>
+    <p>In Edmonton, he pursued a Master’s in Structural Engineering, graduating in 1998. Shortly after, Allure Homes was incorporated with a singular mission: to provide a rare combination of high-level engineering and deep on-site construction mastery.</p>
   `,
   image: "https://images.unsplash.com/photo-1503387762-592deb58ef4e?q=80&w=1931&auto=format&fit=crop",
   stats: [
     { label: "Graduated Florida", value: "1985" },
     { label: "Toronto Builds", value: "1986" },
     { label: "Edmonton Master's", value: "1998" },
-    { label: "Allure Inc.", value: "Est." }
+    { label: "Allure Homes", value: "Est." }
   ]
 };
 
